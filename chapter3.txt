@@ -4,4 +4,10 @@ first change to chapter 3
 =======
 
 change under new-branch
+<<<<<<< HEAD
 >>>>>>> new-branch
+=======
+
+
+supaBranch edit
+>>>>>>> supaBranch
