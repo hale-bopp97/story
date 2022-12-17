@@ -1,2 +1,7 @@
 first change to chapter 3
+<<<<<<< HEAD
 ---this is a change made under the main branch---
+=======
+
+change under new-branch
+>>>>>>> new-branch
